@@ -1,0 +1,43 @@
+{
+    "question": [
+        {
+            "questionText": "Which of the following does TypeScript use to specify types?",
+            "options": [
+                {
+                    "text": ":",
+                    "correct": true
+                },
+                {
+                    "text": ";"
+                },
+                {
+                    "text": "!"
+                },
+                {
+                    "text": "&"
+                }
+            ],
+            "explanation": "TS usses (:) to separate the property name form the property type"
+        },
+        {
+            "questionText": "How else can Array<number> be written in typeScript?",
+            "options": [
+                {
+                    "text": "@angular"
+                   
+                },
+                {
+                    "text": "number[]",
+                    "correct": true
+                },
+                {
+                    "text": "number!"
+                },
+                {
+                    "text": "number?"
+                }
+            ],
+            "explanation": "number[] is another way of writting Array<number> in TypeScript"
+        }
+    ]
+}
